@@ -54,7 +54,7 @@ const morseTable = {
 const translateMorseToCharacter = (morseText) => {
   console.log("morseText", morseText);
   if (!morseText.length) return "";
-  return morseTable[morseText] || "💩";
+  return morseTable[morseText] || "undefined";
 };
 
 const translateFromMorseToText = (morseText) => {
