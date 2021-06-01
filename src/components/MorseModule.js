@@ -112,6 +112,7 @@ export default class MorseModule extends React.Component {
     return (
       <div>
         <div>Morse: {morseText}</div>
+
         <button
           onMouseDown={this._onButtonMouseDown}
           onMouseUp={this._onButtonMouseUp}

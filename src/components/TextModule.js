@@ -64,7 +64,7 @@ function TextModule() {
     " ": " ",
   };
 
-  console.log(Object.entries(morseTable));
+  //   console.log(Object.entries(morseTable));
 
   return (
     <div>
@@ -72,9 +72,9 @@ function TextModule() {
         <input type="text" placeholder="Please, enter your text here"></input>
         <button className="submit-button">Translate</button>
       </form>
-      <div className="result">Result text</div>
+      <div className="result">result text</div>
     </div>
   );
 }
 
-export default TextModule;
+export { TextModule };
