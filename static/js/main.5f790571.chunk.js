@@ -1,2 +1,0 @@
-(this["webpackJsonptranslate-morse-react"]=this["webpackJsonptranslate-morse-react"]||[]).push([[0],{10:function(e,t,r){"use strict";r.r(t);var n=r(1),c=r.n(n),s=r(3),a=r.n(s),i=r(0);var o=function(){return Object(i.jsx)("div",{children:Object(i.jsx)("h1",{children:"Hi I am translate-morse-react App"})})};r(9);a.a.render(Object(i.jsx)(c.a.StrictMode,{children:Object(i.jsx)(o,{})}),document.getElementById("root"))},9:function(e,t,r){}},[[10,1,2]]]);
-//# sourceMappingURL=main.5f790571.chunk.js.map
