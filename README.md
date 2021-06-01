@@ -23,6 +23,16 @@ editing package.json with:
 
 In the project directory, you can run:
 
+## Initial commit, updating and connecting GitHub
+
+git init
+git remote add origin git@github.com:svenWacker/translate-morse-react.git
+git branch -M main
+git push -u origin main
+
+git add . && git commit -m 'initial commit and copy to github'
+git push
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -39,14 +49,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### `npm run deploy`
 
-## Updating and connecting GitHub
-
-git init
-git remote add origin git@github.com:svenWacker/translate-morse-react.git
-git branch -M main
-git push -u origin main
-
-git add . && git commit -m 'initial commit and copy to github'
-git push
+Builds the app for deploying to gh-pages
