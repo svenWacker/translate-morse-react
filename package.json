@@ -1,7 +1,7 @@
 {
   "name": "translate-morse-react",
   "version": "0.1.0",
-  "homepage": "http://svenWacker.github.io/translat-morse-react",
+  "homepage": "http://svenWacker.github.io/translate-morse-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
