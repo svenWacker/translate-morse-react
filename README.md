@@ -1,6 +1,6 @@
 # Getting Started with Translate To Morse App
 
-This project was made by hand [Run Translate To Morse App](https://github.com/facebook/create-react-app).
+This project was made by hand [Run Translate To Morse App](http://svenWacker.github.io/translate-morse-react).
 
 ## Prework
 
@@ -15,7 +15,7 @@ npm i node-sass gh-pages
 ### Deleting unnecessary files and adding code
 
 editing package.json with:
-"homepage": "http://svenWacker.github.io/translat-morse-react",
+"homepage": "http://svenWacker.github.io/translate-morse-react",
 "predeploy": "npm run build",
 "deploy": "gh-pages -d build",
 
