@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/translat-morse-react/static/css/main.1fc0fdd3.chunk.css",
-    "main.js": "/translat-morse-react/static/js/main.6a46ee89.chunk.js",
-    "main.js.map": "/translat-morse-react/static/js/main.6a46ee89.chunk.js.map",
+    "main.js": "/translat-morse-react/static/js/main.59a3bbce.chunk.js",
+    "main.js.map": "/translat-morse-react/static/js/main.59a3bbce.chunk.js.map",
     "runtime-main.js": "/translat-morse-react/static/js/runtime-main.175554c9.js",
     "runtime-main.js.map": "/translat-morse-react/static/js/runtime-main.175554c9.js.map",
     "static/js/2.b43536b0.chunk.js": "/translat-morse-react/static/js/2.b43536b0.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.175554c9.js",
     "static/js/2.b43536b0.chunk.js",
     "static/css/main.1fc0fdd3.chunk.css",
-    "static/js/main.6a46ee89.chunk.js"
+    "static/js/main.59a3bbce.chunk.js"
   ]
 }
