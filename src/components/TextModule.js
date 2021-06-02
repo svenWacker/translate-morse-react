@@ -75,7 +75,6 @@ function TextModule() {
 
   return (
     <div className="container">
-      <h1>Morse Code Translator</h1>
       <input
         type="text"
         className="form-control"
