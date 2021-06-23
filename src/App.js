@@ -3,7 +3,7 @@ import { TextModule } from "./components/TextModule";
 
 function App() {
   return (
-    <div>
+    <div class="container">
       <h1>Learn To Morse</h1>
       <h2>Type in your text:</h2>
       <TextModule />

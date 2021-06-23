@@ -74,14 +74,16 @@ function TextModule() {
   }
 
   return (
-    <div className="container">
-      <input
-        type="text"
-        className="form-control"
-        value={inputText}
-        onChange={changeHandle}
-        onKeyUp={textToMorse}
-      />
+    <div class="text-module">
+      <div class="input-container">
+        <input
+          type="text"
+          className="form-control"
+          value={inputText}
+          onChange={changeHandle}
+          onKeyUp={textToMorse}
+        />
+      </div>
       <div>Text: {inputText}</div>
       <div>Morse: {result}</div>
     </div>
